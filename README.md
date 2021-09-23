@@ -14,7 +14,6 @@ This repository contains all of the source code used in the course called HTML, 
 
 
 # Outputs :
-https://taiebghariani.github.io/HTML-CSS-and-Javascript-for-Web-Developers-assignments/assignment-4/
 * [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
 * [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
 * [Module-4](https://taiebghariani.github.io/HTML-CSS-and-Javascript-for-Web-Developers-assignments/assignment-4/index.html)
